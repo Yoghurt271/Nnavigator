@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nnavigator", "Nnavigator\Nnavigator.csproj", "{2E2005A5-5F44-4EA6-9733-AE89F9955F2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E2005A5-5F44-4EA6-9733-AE89F9955F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2005A5-5F44-4EA6-9733-AE89F9955F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2005A5-5F44-4EA6-9733-AE89F9955F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2005A5-5F44-4EA6-9733-AE89F9955F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC37F2F3-D132-4EE2-B85A-DC676F89F071}
+	EndGlobalSection
+EndGlobal
